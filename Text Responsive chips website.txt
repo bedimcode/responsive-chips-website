@@ -1,0 +1,124 @@
+========== HEADER ==========
+.nav__logo
+CHIPS
+
+.nav__link
+Home - Favorites - Care - Products - Contact
+
+.nav__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+
+========== HOME ==========
+.home__title
+SNACK <br> WITH NO <br> LIMITS
+
+.home__description
+When you are hungry and don't have time 
+to cook, snacks are the perfect solution, 
+always prepare for midday hunger.
+
+.button
+Snack Now
+
+.button__ghost
+Buy Now
+
+
+========== FAVORITES ==========
+.section__title
+DISCOVER YOUR <br> FAVORITE FLAVORS
+
+.favorites__description
+Try some exotic flavors or delicious 
+toppings. We have collected some delicious 
+snack recipes from around the world for you.
+
+
+========== CARE ==========
+.section__title
+ENJOY AND TAKE <br> CARE OF YOUR HEALTH
+
+.care__item p
+The potatoes that are made into 
+snacks are grown and harvested and 
+are 100% organic.
+
+We fry the fries with vegetable and 
+natural oil for good care.
+
+The potatoes are not processed, once 
+cleaned they are cooked without 
+preservatives.
+
+They contain fewer calories and less 
+fat for good health.
+
+
+========== BANNER ==========
+.banner__item span
+GOOD FOR NATURE
+
+LOW CALORIES
+
+
+========== PRODUCTS ==========
+.section__title
+BEST SELLING <br> PRODUCT
+
+.products__subtitle .products__title .products__price
+Crab
+Chips
+$8
+
+Cheese
+Chips
+$5
+
+BBQ
+Chips
+$6
+
+Hot
+Chips
+$5
+
+Mix
+Chips
+$10
+
+
+========== CONTACT ==========
+.section__title
+CONTACT US TO <br> EAT CHIPS
+
+.contact__title
+Write to us
+Call us
+Find us here
+
+.contact__social
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+mailto:examplemail@correo.com
+
+.contact__info
++00-987-7654-321 <br>
++11-012345
+
+Lima - Sun City - Peru <br>
+Av. Moon #4321
+
+
+========== FOOTER ==========
+.footer__logo
+CHIPS
+
+.footer__link
+Terms & Agreements
+Privacy Policy
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode

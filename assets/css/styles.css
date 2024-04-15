@@ -1,0 +1,170 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Titan+One&display=swap");
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3.5rem;
+
+  /*========== Colors ==========*/
+  /*Color mode HSL(hue, saturation, lightness)*/
+  --first-color: hsl(170, 90%, 34%);
+  --first-color-dark: hsl(170, 100%, 28%);
+  --first-color-darken: hsl(170, 100%, 23%);
+  --second-color: hsl(45, 100%, 52%);
+  --second-color-dark: hsl(45, 100%, 20%);
+  --white-color: hsl(0, 0%, 100%);
+  --shadow-img: drop-shadow(0 12px 24px hsla(0, 0%, 0%, .4));
+  --shadow-circle: 0 12px 24px hsla(0, 0%, 0%, .4);
+  --shadow-button: 0 -4px 8px hsla(0, 0%, 0%, .3);
+  --shadow-card: 0 -8px 24px hsla(0, 0%, 0%, .3);
+  --shadow-text: 0 2px 4px var(--first-color-darken);
+
+  /*========== Font and typography ==========*/
+  /*.5rem = 8px | 1rem = 16px ...*/
+  --body-font: "Poppins", sans-serif;
+  --second-font: "Titan One", sans-serif;
+  --biggest-font-size: 3.5rem;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-size: 1rem;
+  --normal-font-size: .938rem;
+  --small-font-size: .813rem;
+
+  /*========== Font weight ==========*/
+  --font-regular: 400;
+  --font-semi-bold: 600;
+
+  /*========== z index ==========*/
+  --z-tooltip: 10;
+  --z-fixed: 100;
+}
+
+/*========== Responsive typography ==========*/
+@media screen and (min-width: 1150px) {
+  :root {
+    --biggest-font-size: 5.5rem;
+    --h1-font-size: 2.5rem;
+    --h2-font-size: 1.5rem;
+    --h3-font-size: 1.25rem;
+    --normal-font-size: 1rem;
+    --small-font-size: .875rem;
+  }
+}
+
+/*=============== BASE ===============*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  background-color: var(--first-color);
+  color: var(--white-color);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+.container {
+  max-width: 1120px;
+  margin-inline: 1.5rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.section {
+  padding-block: 5rem 1rem;
+}
+
+.section__title {
+  font: var(--font-regular) var(--h1-font-size) var(--second-font);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  text-shadow: var(--shadow-text);
+}
+
+.main {
+  overflow: hidden;
+}
+
+/*=============== HEADER & NAV ===============*/
+
+
+/* Navigation for mobile devices */
+
+
+/* Show menu */
+
+
+/* Shadow header */
+
+
+/* Active link */
+
+
+/*=============== HOME ===============*/
+
+
+/*=============== BUTTON ===============*/
+
+
+/*=============== FAVORITES ===============*/
+
+
+/* Swiper class */
+
+
+/*=============== CARE ===============*/
+
+
+/*=============== BANNER ===============*/
+
+
+/*=============== PRODUCTS ===============*/
+
+
+/*=============== CONTACT ===============*/
+
+
+/*=============== FOOTER ===============*/
+
+
+/*=============== SCROLL BAR ===============*/
+
+
+/*=============== SCROLL UP ===============*/
+
+
+/* Show Scroll Up */
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+
+
+/* For medium devices */
+
+
+/* For large devices */
